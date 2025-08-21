@@ -73,7 +73,7 @@
     (Add images of key states: zipped, opened, chair deployed, texture details)
   </p>
 
-  <h2>👨‍💻 Contributors</h2>
+  <h2>👨‍💻 Other Contributors</h2>
         <li>
       <a href="https://github.com/AZURE88S" target="_blank">
         AZURE88S
