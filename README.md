@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>VoyagePal - 3D Luggage Chair</title>
+  <h1>VoyagePal - 3D Luggage Chair</h1>
 </head>
 <body>
   <h1>🧳 VoyagePal: 3D Luggage Chair</h1>
