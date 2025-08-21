@@ -7,7 +7,6 @@
   <h1>VoyagePal - 3D Luggage Chair</h1>
 </head>
 <body>
-  <h1>🧳 VoyagePal: 3D Luggage Chair</h1>
   <p>
     A 3D interactive model of a multi-functional luggage chair developed using
     <strong>C++</strong>, <strong>OpenGL</strong>, and <strong>GLUT</strong>.
