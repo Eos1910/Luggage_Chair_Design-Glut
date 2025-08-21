@@ -56,6 +56,8 @@
       <a href="https://github.com/Eos1910/Glut_Installation_in_CodeBlocks" target="_blank">
         GLUT Setup Guide on GitHub
       </a>
+    </li>
+    <li>
       Follow this stb_image.h setup guide for Code::Blocks:<br>
       <a href="https://github.com/Eos1910/Glut-stb_image.h-installation" target="_blank">
       </a>
