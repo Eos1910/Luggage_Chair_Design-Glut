@@ -74,11 +74,17 @@
   </p>
 
   <h2>👨‍💻 Contributors</h2>
-  <ul>
-    <li><strong>Thet Paing Soe</strong> (CST2209301)</li>
-    <li><strong>Bryan Winata</strong> (CST2209199)</li>
-    <li><strong>Zhang Siyu</strong> (CST2209178)</li>
-  </ul>
+        <li>
+      <a href="https://github.com/AZURE88S" target="_blank">
+        AZURE88S
+      </a>
+    </li>
+        <li>
+      <a href="https://github.com/610-Naples" target="_blank">
+        610-Naples
+      </a>
+    </li>
+
 
   <h2>📚 Learning Highlights</h2>
   <ul>
