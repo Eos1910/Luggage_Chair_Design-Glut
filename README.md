@@ -53,26 +53,17 @@
     <li>Install Code::Blocks</li>
     <li>
       Follow this GLUT setup guide for Code::Blocks:<br>
-      <a href="https://github.com/Goblin80/glut-install" target="_blank">
+      <a href="https://github.com/Eos1910/Glut_Installation_in_CodeBlocks" target="_blank">
         GLUT Setup Guide on GitHub
       </a>
+      Follow this stb_image.h setup guide for Code::Blocks:<br>
+      <a href="https://github.com/Eos1910/Glut-stb_image.h-installation" target="_blank">
+      </a>
     </li>
-    <li>Clone this repository:
-      <pre><code>git clone https://github.com/your-username/voyagepal.git</code></pre>
+    <li>Download main.cpp and texture files:
     </li>
-    <li>Open the project in Code::Blocks, build, and run</li>
+    <li>Open the project in Code::Blocks, build, and run (Make sure to use correct directories for .txt files</li>
   </ol>
-
-  <h2>📁 Project Structure</h2>
-  <pre>
-|-- main.cpp
-|-- textures/
-|   |-- metal.jpg
-|   |-- logo.png
-|-- shaders/
-|-- stb_image.h
-|-- README.md
-  </pre>
 
   <h2>📷 Screenshots</h2>
   <p>
