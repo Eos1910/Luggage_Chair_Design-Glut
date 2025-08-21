@@ -65,7 +65,7 @@
     </li>
     <li>Download main.cpp and texture files:
     </li>
-    <li>Open the project in Code::Blocks, build, and run (Make sure to use correct directories for .txt files</li>
+    <li>Open the project in Code::Blocks, build, and run (Make sure to use correct directories for .txt files)</li>
   </ol>
 
   <h2>📷 Screenshots</h2>
